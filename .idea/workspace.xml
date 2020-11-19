@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4724afcb-2e4a-4ee1-a161-543de0e052c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kVEgY9zZJ8OsoOeMMmLGBMFsK8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.22.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaProject\myweb\web\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sql.test.Test" />
+      <module name="myweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sql.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="myweb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.60" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.60" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="myweb:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/myweb_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="myweb:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4724afcb-2e4a-4ee1-a161-543de0e052c7" name="Default Changelist" comment="" />
+      <created>1605777469453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605777469453</updated>
+      <workItem from="1605777472834" duration="238000" />
+      <workItem from="1605777769376" duration="773000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2443" y="162" key="DetectedRootsChooserDialog" timestamp="1605777652946">
+      <screen x="1920" y="30" width="1536" height="834" />
+    </state>
+    <state x="2443" y="162" key="DetectedRootsChooserDialog/0.0.1280.679/1920.30.1536.834@1920.30.1536.834" timestamp="1605777652946" />
+    <state x="2365" y="188" key="FileChooserDialogImpl" timestamp="1605777867772">
+      <screen x="1920" y="30" width="1536" height="834" />
+    </state>
+    <state x="2365" y="188" key="FileChooserDialogImpl/0.0.1280.679/1920.30.1536.834@1920.30.1536.834" timestamp="1605777867772" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1605778542751">
+      <screen x="1920" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1280.679/1920.30.1536.834@1920.30.1536.834" timestamp="1605778542751" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1605778542751">
+      <screen x="1920" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1280.679/1920.30.1536.834@1920.30.1536.834" timestamp="1605778542751" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1605778542751">
+      <screen x="1920" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1280.679/1920.30.1536.834@1920.30.1536.834" timestamp="1605778542751" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1605778542751">
+      <screen x="1920" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1280.679/1920.30.1536.834@1920.30.1536.834" timestamp="1605778542751" />
+    <state x="2169" y="30" key="SettingsEditor" timestamp="1605777872595">
+      <screen x="1920" y="30" width="1536" height="834" />
+    </state>
+    <state x="2169" y="30" key="SettingsEditor/0.0.1280.679/1920.30.1536.834@1920.30.1536.834" timestamp="1605777872595" />
+  </component>
+</project>
